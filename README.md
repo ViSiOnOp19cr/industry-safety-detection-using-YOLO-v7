@@ -1,0 +1,1 @@
+# industry-safety-detection-using-YOLO-v7
